@@ -1,3 +1,12 @@
-# Всем привет!
+<div id="header" align="center">
+  <h1> Hello, my name is Elena! </h1>
+  <h3> 3rd year SPbU student </h3>
+</div>
 
-Меня зовут Елена, студентка 3-го курса СПбГУ по направлению "Бизнес-информатика". В репозитории можно найти мои работы.
+
+### About me
+
+
+
+## BI:
+- [Дашборд анализа деятельности магазина](https://datalens.yandex/8i85dctarikev)
