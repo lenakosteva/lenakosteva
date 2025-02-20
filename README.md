@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <h1> Hello, my name is Elena! </h1>
-  <h3> 3rd year SPbU student </h3>
 </div>
 
 
-### About me
+## About me
+  <h3> 3rd year SPbU student </h3>
