@@ -5,8 +5,3 @@
 
 
 ### About me
-
-
-
-## BI:
-- [Дашборд анализа деятельности магазина](https://datalens.yandex/8i85dctarikev)
